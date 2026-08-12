@@ -1,1 +1,1 @@
-Use necessarily skills to perform code review if possible.
+When reviewing code changes, also use code-review skill and follow its guideline to review the changes.
